@@ -1,0 +1,80 @@
+ Full Name: Magnus Carlsen
+ Country:NOR
+ Birth year:1990
+ Rank:1
+ Rating:2842
+ Games Played:0.
+
+
+ Full Name: Fabiano Caruana
+ Country:USA
+ Birth year:1992
+ Rank:2
+ Rating:2822
+ Games Played:0.
+
+
+ Full Name: Shakhriyar Mamedyarov
+ Country:AZE
+ Birth year:1985
+ Rank:3
+ Rating:2801
+ Games Played:0.
+
+
+ Full Name: Liren Ding
+ Country:CHN
+ Birth year:1992
+ Rank:4
+ Rating:2797
+ Games Played:0.
+
+
+ Full Name: Anish Giri
+ Country:NED
+ Birth year:1994
+ Rank:5
+ Rating:2780
+ Games Played:7.
+
+
+ Full Name: Wesley So
+ Country:USA
+ Birth year:1993
+ Rank:6
+ Rating:2780
+ Games Played:0.
+
+
+ Full Name: Maxime Vachier-Lagrave
+ Country:FRA
+ Birth year:1990
+ Rank:8
+ Rating:2779
+ Games Played:0.
+
+
+ Full Name: Hikaru Nakamura
+ Country:USA
+ Birth year:1987
+ Rank:9
+ Rating:2777
+ Games Played:0.
+
+
+ Full Name: Sergey Karjakin
+ Country:RUS
+ Birth year:1990
+ Rank:10
+ Rating:2773
+ Games Played:0.
+
+
+ Full Name: Ian Nepomniachtchi
+ Country:RUS
+ Birth year:1990
+ Rank:11
+ Rating:2768
+ Games Played:7.
+
+
